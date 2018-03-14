@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+## 在线预览：
+> https://meellis.github.io/vue2-kugou-music/dist
+## 项目预览：
+![](https://github.com/MEEllis/vue2-kugou-music/blob/master/src/assets/images/select1.png)<br><br>
+![](https://github.com/MEEllis/vue2-kugou-music/blob/master/src/assets/images/select2.png)<br><br>
+![](https://github.com/MEEllis/vue2-kugou-music/blob/master/src/assets/images/select3.png)<br><br>
 ## Build Setup
 
 ``` bash
@@ -14,17 +20,7 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+## 参考项目：
+> https://github.com/lavyun/vue-demo-kugou
 
-# run unit tests
-npm run unit
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
